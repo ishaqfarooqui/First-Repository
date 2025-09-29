@@ -1,4 +1,4 @@
 # First-Repository
 This is my first Repository.
 <br>
-Author - Ishaq Farooqui
+Author - Ishaq Farooqui {Fisrt Repo}
